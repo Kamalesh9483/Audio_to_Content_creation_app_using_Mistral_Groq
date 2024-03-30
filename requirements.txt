@@ -1,0 +1,7 @@
+SpeechRecognition
+numpy
+pandas
+streamlit
+python-dotenv
+pyaudio
+groq
